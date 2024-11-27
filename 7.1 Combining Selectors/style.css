@@ -1,0 +1,19 @@
+/* Write your code here: */
+h1{
+    color: blueviolet;
+}
+h2{
+    color: blueviolet;
+}
+.box > p{
+    color: firebrick;
+}
+ul p{
+    color: blue;
+}
+ul,li {
+    color: palevioletred;
+}
+p{
+    color: red;
+}
